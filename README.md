@@ -1,5 +1,5 @@
-Wavve+ Unofficial Client for Android TV
-웨이브 실시간 채널 및 컨텐츠을 볼수 있는 안드로이드TV 앱
+Wavve+ Unofficial Client for Android TV / 
+웨이브 실시간 방송 및 컨텐츠을 볼수 있는 안드로이드TV 앱
 
 다운로드
 app-release.apk(https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.0.3/app-release.apk)
