@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.0.4/app-release.apk",
-  "log": "이미지 로딩 최적화(Resize) 코드를 적용, 화면이 대기 모드 수정 (화면 켜짐 유지), 화면 모듈의 addon 방식으로 수정"
+  "version": "1.0.5",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.0.5/app-release.apk",
+  "log": "앱 종료 확인 기능 추가, 로그인 키보드 및 리모컨 포커스 최적화, 레이아웃 깨짐 현상 수정 및 시스템 모듈화 완료"
 }
