@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.1/app-release.apk",
-  "log": "환경설정 진입불가 패치, 코드 안정화"
+  "version": "1.1.2",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.2/app-release.apk",
+  "log": "SBS 컨텐츠 모듈(LIVE 및 VOD)추가(SBS 가입필요)"
 }
