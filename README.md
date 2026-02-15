@@ -1,9 +1,12 @@
 Wavve+ Unofficial Client for Android TV / 
 웨이브 실시간 방송 및 컨텐츠을 볼수 있는 안드로이드TV 앱
 
-<img width="1018" height="482" alt="image" src="https://github.com/user-attachments/assets/59acbd0b-26a5-446f-a85e-b1b22c1e633f" />
-<img width="1348" height="724" alt="image" src="https://github.com/user-attachments/assets/04d7fe9a-a876-4025-aefc-025a839fa151" />
-<img width="890" height="605" alt="image" src="https://github.com/user-attachments/assets/835883b6-7f58-4154-a073-0c7795efed32" />
+<img width="1194" height="607" alt="image" src="https://github.com/user-attachments/assets/0005c9b6-08ce-4a8e-ad3c-687f5638d123" />
+
+<img width="1194" height="610" alt="image" src="https://github.com/user-attachments/assets/de76e04e-bc33-42d2-85a0-0f73e619f9b8" />
+
+<img width="1179" height="607" alt="image" src="https://github.com/user-attachments/assets/bf22c4fc-266f-4dbe-b640-36373c7094b4" />
+
 
 
 다운로드
