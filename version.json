@@ -1,5 +1,5 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.7/app-release.apk",
-  "log": "해외시리즈 컨텐츠 추가(다큐,로멘스,SF,등등..) , 신규 컨텐츠 New 벳지 추가"
+  "version": "1.1.8",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.8/app-release.apk",
+  "log": "TVING 연동, LIVE/NEW 콘텐츠 추가, LIVE 채널 리모컨 상하 이동, 기기 호환성 모드(H.264/SDR) 추가, 인증키 적용 및 안정화"
 }
