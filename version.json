@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.8/app-release.apk",
-  "log": "TVING 연동, LIVE/NEW 콘텐츠 추가, LIVE 채널 리모컨 상하 이동, 기기 호환성 모드(H.264/SDR) 추가, 인증키 적용 및 안정화"
+  "version": "1.1.9",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.9/app-release.apk",
+  "log": "Wavve 및 TVING 로그인 안정화 , TVING의 CJ ONE ID 로그인 추가 (TVING ID  및 CJ ONE ID 로그인 지원)"
 }
