@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.1.9/app-release.apk",
-  "log": "Wavve 및 TVING 로그인 안정화 , TVING의 CJ ONE ID 로그인 추가 (TVING ID  및 CJ ONE ID 로그인 지원)"
+  "version": "1.2.0",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.0/app-release.apk",
+  "log": "v1.2.0 업데이트: 실시간 채팅 기능 탑재(QR/음성 입력, 리모컨 제어), TVING 프로필 선택 지원, 재생 에러 시 자동 화질 변경 로직 추가, 메인 메뉴 UI 사이즈 및 채팅 옵션(투명도/대화명) 설정 추가, 전체적인 코드 안정화"
 }
