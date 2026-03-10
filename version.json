@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.1/app-release.apk",
-  "log": "v1.2.1 대규모 업데이트 안내\n\n📦 [내 보관함] 즐겨찾기 기능 추가 (포스터 꾹 누르기)\n🕒 [앰비언트] TV 대기화면 모드 및 4종 테마 지원\n📸 [캐스팅] 폰 사진 실시간 전송 기능 추가\n🔐 [인증] SBS 로그인 로직 및 UI 전면 개편\n⚡ [최적화] 초고속 리스트 캐싱 및 시스템 안정화"
+  "version": "1.2.2",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.2/app-release.apk",
+  "log": "v1.2.2 기능 확장 및 대규모 안정화 업데이트\n\n💾 [백업] USB 및 내장메모리 암호화(PIN) 백업·복구 지원\n🎬 [재생] 영화 DRM 3분 제한 해제 및 지능형 듀얼 플레이어 도입\n🔐 [계정] 3사(Wavve, SBS, TVING) 통합 로그아웃 및 세션 초기화\n👥 [소셜] 전체 및 채널별 실시간 동시 시청자 현황 추가\n🛠️ [최적화] 티빙 실시간 복구 및 음성 겹침(유령 소리) 완벽 해결"
 }
