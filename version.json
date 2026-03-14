@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.2/app-release.apk",
-  "log": "v1.2.2 기능 확장 및 대규모 안정화 업데이트\n\n💾 [백업] USB 및 내장메모리 암호화(PIN) 백업·복구 지원\n🎬 [재생] 영화 DRM 3분 제한 해제 및 지능형 듀얼 플레이어 도입\n🔐 [계정] 3사(Wavve, SBS, TVING) 통합 로그아웃 및 세션 초기화\n👥 [소셜] 전체 및 채널별 실시간 동시 시청자 현황 추가\n🛠️ [최적화] 티빙 실시간 복구 및 음성 겹침(유령 소리) 완벽 해결"
+  "version": "1.2.3",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.3/app-release.apk",
+  "log": "1. 생방송 컨텐츠 진행율표시\n 2. 내보관함 컨텐츠 출처 (Wavve, SBS, Tving) 표시기능추가 \n 3.VOD 컨텐츠 Player 기능 개선 (코덱 깨짐 관련) \n 4.안드로이드 오디오 포커스(AudioFocus) 최적화 및 플레이어 소프트웨어 볼륨 강제 세팅 (Normalization)"
 }
