@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.2.4/app-release.apk",
   "log": "1. 보안 설정: 업장용 설정 잠금 (PIN) 기능 추가\n 2. 내 보관함 및 콘텐츠 관리 최적화 \n 3.외부 서비스(SBS, TVING) 인증 제어 강화 및 UX 개선 \n 4.안정성 및 버그 수정"
 }
