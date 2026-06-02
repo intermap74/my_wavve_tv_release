@@ -1,5 +1,11 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.3.1/app-release.apk",
-  "log": "1. 영화 자막 보기 기능 추가 (켜기/끄기 + 글자 크기 3단계)\n 2. 해외 시리즈·DRM 영화 검은 화면 해결\n 3. 영화 진행률 시크 30초 (6배 향상)\n 4. M3U / M3U8 외부 채널 + 게스트 모드 신설 (해외 사용자)\n 5. 영상 180° 회전 + SBS 호환성 모드 적용\n 6. 환경설정 '피드백 & 개발 의뢰' 메뉴 신설 (이미지 ZIP 자동 첨부)\n 7. 내보관함 순서 이동 추가 + 종료 버튼 포커스 버그 수정"
+  "version": "1.3.6",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.3.6/app-release.apk",
+  "log": "1. 앱 시작 시 자동 재생 ... + LIVE 채널 ↑↓ 순환
+ 2. TVING 라이브 채널 대폭 증가 + 재생 멈춤·정지 해결
+ 3. 일부 재방송 채널, 실제 편성 시간에 맞춰 생방송처럼 재생
+ 4. M3U 외부 채널 무제한 등록 + 로컬 파일 가져오기
+ 5. 재생 문제 신고 기능 신설 (문제 화면 3초 꾹 누르기)
+ 6. 피드백·버그신고 전송 안정화 + 진행 화면
+ 📢 메일 장애 안내 — 이전 신고는 다시 한 번 부탁드립니다"
 }
