@@ -1,5 +1,5 @@
 {
-  "version": "1.3.8",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.3.8/app-release.apk",
-  "log": "1. [개선] 재생 문제 신고 — 증상 직접 선택 + 그 순간 화면이 함께 전달되어 정확히 진단  2. [버그수정] 마지막 본 채널 자동 재생 (M3U·TVING 정상 기록)  3. TVING 라이브 대폭 증가 + 재생 멈춤·정지 해결  4. 일부 재방송, 실제 편성 시간에 맞춰 생방송처럼 재생  5. 업데이트 안내 ↑↓ 스크롤 + M3U 무제한 등록 "
+  "version": "1.3.9",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.3.9/app-release.apk",
+  "log": "1. [개선] 유료·구독 전용 채널은 검정화면 대신 「유료 구독이 필요합니다」 안내 표시  2. [개선] 재생 문제 신고 — 증상 직접 선택 + 그 순간 화면이 함께 전달되어 정확히 진단  3. [개인정보] 신고 기록에서 로그인 정보·이름 자동 가림  4. [버그수정] 마지막 본 채널 자동 재생 (M3U·TVING 정상 기록)  5. TVING 라이브 대폭 증가 + 재생 멈춤·정지 해결  6. 일부 재방송, 실제 편성 시간에 맞춰 생방송처럼 재생  🙏 신고해주신 분들 덕분에 개선했습니다. 감사합니다!"
 }
