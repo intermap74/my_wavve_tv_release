@@ -1,5 +1,5 @@
 {
-  "version": "1.4.20",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.20/app-release.apk",
-  "log": "📢 v1.4.20 — 스마트 갤러리(폰→TV 사진)가 확실하게 뜹니다\n\nTV에 대기화면(시계)을 켜 둔 상태에서 폰으로 사진을 보내도 이제 즉시 화면 가득 표시됩니다.\n예전엔 \"OK를 누르세요\" 알림만 뜨고 사진이 안 나오는 경우가 있었는데, 그 문제를 고쳤습니다.\n사진을 본 뒤 뒤로가기로 나가면 남은 사진이 깔끔히 정리됩니다."
+  "version": "1.4.21",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.21/app-release.apk",
+  "log": "📢 v1.4.21 — 방송 보는 중에 사진이 오면 물어봅니다\n\n방송 시청 중에 폰으로 사진을 보내면, 방송을 갑자기 끊지 않고 확인창을 띄웁니다.\n· [보기] → 사진을 크게 봅니다(방송은 뒤에서 계속 재생, 뒤로가기로 복귀)\n· [나중에] → 방송을 그대로 봅니다(사진은 다음 대기화면에서 자동 표시)\n한 번 '나중에'를 고르면 그 시청이 끝날 때까지 다시 묻지 않습니다."
 }
