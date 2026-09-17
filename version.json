@@ -1,5 +1,5 @@
 {
-  "version": "1.4.23",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.23/app-release.apk",
-  "log": "📢 v1.4.23 — 외부 채널 검은 화면 수정\n\n· 방송이 1분쯤 뒤 검게 바뀌던 문제\n· 'BetterPlayer 우선'에서 일부 외부 채널이 안 나오던 문제\n\n신고해 주신 분들 감사합니다 🙏"
+  "version": "1.4.24",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.24/app-release.apk",
+  "log": "📢 v1.4.24 — 라이브 끊김 수정\n\n· 잘 나오던 라이브가 잠시 뒤 끊기며\n  재생 방식이 바뀌던 문제를 고쳤습니다\n\n업데이트 후 그대로 보시면 됩니다 🙏"
 }
