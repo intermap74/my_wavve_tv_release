@@ -1,5 +1,5 @@
 {
-  "version": "1.4.24",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.24/app-release.apk",
-  "log": "📢 v1.4.24 — 라이브 끊김 수정\n\n· 잘 나오던 라이브가 잠시 뒤 끊기며\n  재생 방식이 바뀌던 문제를 고쳤습니다\n\n업데이트 후 그대로 보시면 됩니다 🙏"
+  "version": "1.4.25",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.25/app-release.apk",
+  "log": "📢 v1.4.25 — SBS 목록 수정\n\n· SBS 전용 채널 목록이\n  통째로 비어 보이던 문제를 고쳤습니다\n\n업데이트 후 그대로 보시면 됩니다 🙏"
 }
