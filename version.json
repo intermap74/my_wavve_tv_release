@@ -1,5 +1,5 @@
 {
-  "version": "1.4.26",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.26/app-release.apk",
-  "log": "📢 v1.4.26 — 화질 안내\n\n· 라이브 화질이 낮게 나올 때\n  이유를 알려드리고, 더 나은 화질을\n  한 번 더 시도합니다\n\n업데이트 후 그대로 보시면 됩니다 🙏"
+  "version": "1.4.27",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.27/app-release.apk",
+  "log": "📢 v1.4.27 — 화면 색 설정 수정\n\n· 설정의 \"SDR 강제\" 가 켜도 아무 일도\n  하지 않던 문제를 고쳤습니다\n· 화면이 어둡거나 색이 이상하면\n  설정에서 켜 보세요\n\n업데이트 후 그대로 보시면 됩니다 🙏"
 }
