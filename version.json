@@ -1,5 +1,5 @@
 {
-  "version": "1.4.27",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.27/app-release.apk",
-  "log": "📢 v1.4.27 — 화면 색 설정 수정\n\n· 설정의 \"SDR 강제\" 가 켜도 아무 일도\n  하지 않던 문제를 고쳤습니다\n· 화면이 어둡거나 색이 이상하면\n  설정에서 켜 보세요\n\n업데이트 후 그대로 보시면 됩니다 🙏"
+  "version": "1.4.28",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.28/app-release.apk",
+  "log": "📢 v1.4.28 — 신고(덤프) 기능 정비\n\n· 문제를 고르는 창이 바로 뜨도록\n  고쳤습니다 (늦게 떠서 신고가\n  날아가던 문제)\n· 소리 상태와 리모컨 조작 기록을\n  함께 보내도록 추가했습니다\n· 멀쩡한데 '멈춤'으로 잘못 표시되던\n  것을 고쳤습니다\n\n신고해 주신 분들 덕분입니다 🙏"
 }
