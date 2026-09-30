@@ -1,5 +1,5 @@
 {
-  "version": "1.4.29",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.29/app-release.apk",
-  "log": "📢 v1.4.29 — 인터넷이 끊겼다 돌아올 때\n\n· 인터넷 문제를 '이용권 문제'로\n  잘못 안내하던 것을 고쳤습니다\n· 연결이 돌아오면 자동으로 다시\n  재생합니다 (예전엔 검은 화면\n  그대로였습니다)\n· 네트워크 오류인데 화질을 낮춰\n  버리던 것도 고쳤습니다\n\n신고해 주신 분 덕분입니다 🙏"
+  "version": "1.4.30",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.30/app-release.apk",
+  "log": "📢 v1.4.30 — 폰 메뉴 선택 개선\n\n· 폰에서 메뉴 아래쪽 항목이\n  화면 밖으로 나가 눌리지 않던\n  것을 고쳤습니다\n· 메뉴를 누르면 목록이 움직이던\n  것도 고쳤습니다\n· 신고 기능을 다듬었습니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
