@@ -1,5 +1,5 @@
 {
-  "version": "1.4.30",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.30/app-release.apk",
-  "log": "📢 v1.4.30 — 폰 메뉴 선택 개선\n\n· 폰에서 메뉴 아래쪽 항목이\n  화면 밖으로 나가 눌리지 않던\n  것을 고쳤습니다\n· 메뉴를 누르면 목록이 움직이던\n  것도 고쳤습니다\n· 신고 기능을 다듬었습니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
+  "version": "1.4.31",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.31/app-release.apk",
+  "log": "📢 v1.4.31 — TV 껐다 켤 때 검은 화면 대응\n\n· 셋톱박스는 켜 둔 채 TV만 껐다\n  켜면 화면이 검게 보이던 것을\n  고쳤습니다\n· 신고 기능을 다듬었습니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
