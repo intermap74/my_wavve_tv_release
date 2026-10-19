@@ -1,5 +1,5 @@
 {
-  "version": "1.4.31",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.31/app-release.apk",
-  "log": "📢 v1.4.31 — TV 껐다 켤 때 검은 화면 대응\n\n· 셋톱박스는 켜 둔 채 TV만 껐다\n  켜면 화면이 검게 보이던 것을\n  고쳤습니다\n· 신고 기능을 다듬었습니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
+  "version": "1.4.33",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.33/app-release.apk",
+  "log": "📢 v1.4.33 — 카카오·네이버로 간편 로그인\n\n· 웨이브: 로그인 화면에서 카카오·\n  네이버·T아이디로 로그인\n· 티빙: 설정 → TVING 방송 설정에서\n  카카오·네이버로 로그인\n· 휴대폰으로 QR만 찍으면 됩니다\n· 폰 세로 화면에서 로그인 화면이\n  잘리던 것을 고쳤습니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
