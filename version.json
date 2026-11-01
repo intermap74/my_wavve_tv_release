@@ -1,5 +1,5 @@
 {
-  "version": "1.4.35",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.35/app-release.apk",
-  "log": "📢 v1.4.35 — 미리보기 안내 · 라이브 자동 재연결\n\n· 웨이브 미리보기(이용권 없이 앞부분)가\n  끝나면 멈춘 채로 두지 않고\n  「이용권이 필요합니다」라고\n  알려 드립니다\n· 라이브 방송이 멈추면 자동으로\n  다시 연결합니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
+  "version": "1.4.36",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.36/app-release.apk",
+  "log": "📢 v1.4.36 — 재생 안정화 · 웨이브 자동 재로그인\n\n· 일부 기기에서 영상이 안 나오던 문제를\n  다른 재생 방식으로 자동 전환해\n  바로잡았습니다\n· 웨이브 로그인이 끊기면 저장된\n  아이디·비밀번호로 자동으로 다시\n  접속합니다 (SNS 로그인은 제외)\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
