@@ -1,5 +1,5 @@
 {
-  "version": "1.4.37",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.37/app-release.apk",
-  "log": "📢 v1.4.37 — 쉬운 모드 · 로그인 간편화\n\n· 티빙 네이버·카카오 로그인이\n  한 번에 넘어갑니다\n· 새 「시니어(쉬운) 모드」 —\n  켜면 TV 켤 때 채널이 바로 나오고\n  리모컨 ▲▼ 로만 채널을 바꿉니다\n  (설정 › 화면설정 › 「앱 시작 시 자동 재생」\n   맨 아래에서 켜세요. 끄기: 재생 중\n   OK 10초 길게)\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
+  "version": "1.4.38",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.38/app-release.apk",
+  "log": "📢 v1.4.38 — 시니어 모드 쉽게 찾기\n\n· 「시니어(쉬운) 모드」가 설정 메뉴에\n  따로 나왔습니다 (설정 › 시니어(쉬운) 모드)\n· 시작 채널 고를 때 채널 목록을\n  그 자리에서 바로 불러옵니다\n· 시니어 모드에서 리모컨 뒤로 버튼을\n  눌러도 방송이 끊기지 않습니다\n· 설정 복구 버튼이 터치로 잘 눌립니다\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
