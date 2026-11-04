@@ -1,5 +1,5 @@
 {
-  "version": "1.4.36",
-  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.36/app-release.apk",
-  "log": "📢 v1.4.36 — 재생 안정화 · 웨이브 자동 재로그인\n\n· 일부 기기에서 영상이 안 나오던 문제를\n  다른 재생 방식으로 자동 전환해\n  바로잡았습니다\n· 웨이브 로그인이 끊기면 저장된\n  아이디·비밀번호로 자동으로 다시\n  접속합니다 (SNS 로그인은 제외)\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
+  "version": "1.4.37",
+  "url": "https://github.com/intermap74/my_wavve_tv_release/releases/download/v1.4.37/app-release.apk",
+  "log": "📢 v1.4.37 — 쉬운 모드 · 로그인 간편화\n\n· 티빙 네이버·카카오 로그인이\n  한 번에 넘어갑니다\n· 새 「시니어(쉬운) 모드」 —\n  켜면 TV 켤 때 채널이 바로 나오고\n  리모컨 ▲▼ 로만 채널을 바꿉니다\n  (설정 › 화면설정 › 「앱 시작 시 자동 재생」\n   맨 아래에서 켜세요. 끄기: 재생 중\n   OK 10초 길게)\n\n업데이트 후 그대로 쓰시면 됩니다 🙏"
 }
